@@ -147,6 +147,10 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  .container-fluid {
+    padding: 3% 5% 7% ;
+  }
 }
 
 /* CTA */
