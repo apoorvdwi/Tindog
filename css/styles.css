@@ -70,9 +70,7 @@ p {
 .title-image {
   width: 60%;
   transform: rotate(21deg);
-  margin-left: 10%;
   position: absolute;
-  margin-right: 30%;
 }
 
 /* Features */
@@ -148,8 +146,6 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
