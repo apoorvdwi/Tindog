@@ -143,6 +143,13 @@ p {
     text-align: center;
   }
 
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+
   .title-image {
     position: static;
     transform: rotate(0);
